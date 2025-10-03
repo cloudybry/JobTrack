@@ -27,7 +27,6 @@ dotnet run
 Run in Docker
 
 ```docker build -t jobtrack .
-
 docker run -it jobtrack
 ```
 

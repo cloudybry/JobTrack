@@ -32,7 +32,8 @@ docker build -t jobtrack .
 docker run -it jobtrack
 ```
 
-Exports Samples
+## Exports Samples
+
 exports/applications.csv
 
 ##  Author

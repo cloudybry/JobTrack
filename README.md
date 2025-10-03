@@ -14,7 +14,7 @@ Track your job applications like a pro — from the terminal. Built in C# with D
 
 ---
 
-## 🛠️ Setup
+## Setup
 
 ### Prerequisites
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)

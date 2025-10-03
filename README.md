@@ -26,9 +26,9 @@ dotnet run
 ```
 Run in Docker
 
-```docker build -t jobtrack .
+docker build -t jobtrack .
 docker run -it jobtrack
-```
+
 
 Exports Samples
 exports/applications.csv

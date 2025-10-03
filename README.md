@@ -6,11 +6,11 @@ Track your job applications like a pro — from the terminal. Built in C# with D
 
 ## Features
 
-- 📌 Add, list, update, and search job applications
-- 📊 View stats: total, interviews, offers, rejections
-- 📤 Export to CSV and Markdown
-- 🔍 Keyword search across company, role, and status
-- 🐳 Dockerized for easy deployment
+-  Add, list, update, and search job applications
+-  View stats: total, interviews, offers, rejections
+-  Export to CSV and Markdown
+-  Keyword search across company, role, and status
+-  Dockerized for easy deployment
 
 ---
 

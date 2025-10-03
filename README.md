@@ -25,8 +25,11 @@ Track your job applications like a pro — from the terminal. Built in C# with D
 dotnet run
 ```
 Run in Docker
-docker build -t jobtrack .
+
+```docker build -t jobtrack .
+
 docker run -it jobtrack
+```
 
 Exports Samples
 exports/applications.csv

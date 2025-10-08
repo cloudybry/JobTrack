@@ -1,4 +1,4 @@
-#  JobTrack CLI
+#  JobTrack
 
 Track your job applications like a pro — from the terminal. Built in C# with Docker support, export features, and expressive branding.
 

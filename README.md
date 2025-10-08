@@ -44,6 +44,6 @@ BSIT Fresh Graduate | Philippine Christian University
 
 Philippines
 
-Aspiring DevOps Engineer | Software Developer
+Aspiring Software Engineer
 
 bryanbrzbl@gmail.com

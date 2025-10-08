@@ -44,6 +44,10 @@ BSIT Fresh Graduate | Philippine Christian University
 
 Philippines
 
-Aspiring Software Engineer
+Aspiring Junior Software Developer
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 

@@ -40,7 +40,7 @@ exports/applications.csv
 
 Bryan John Berzabal
 
-BSIT Graduate | Philippine Christian University
+BSIT Fresh Graduate | Philippine Christian University
 
 Philippines
 
